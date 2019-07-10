@@ -1,0 +1,9 @@
+.foot{
+    border:1px solid black;
+    background-color: black;
+    width: 1050px;
+    float: right;
+    height:50px;
+    margin-top: 200px;
+    color:white;
+}

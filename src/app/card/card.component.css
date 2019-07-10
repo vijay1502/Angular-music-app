@@ -1,0 +1,22 @@
+.card{
+    width:200px;
+    height:auto;
+    color:white;
+    border:1px solid black;
+    
+    background-color: #272677;
+}
+.card img{
+    width:200px;
+    height:75px;
+    }
+.card:hover{
+        padding:5px 8px;
+        box-shadow:3px 4px 8px 2px rgba(022, 222, 102, 0.8);
+        
+  }
+    .card button{
+        border-radius:4px;
+        color:red;
+        background-color: aqua;
+    }

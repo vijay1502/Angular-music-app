@@ -1,0 +1,14 @@
+.side{
+    width:15%;
+    height:600px;
+    color:white;
+    background-color: red;
+    border:1px solid black;
+    float:left;
+   }
+#sides button{
+    border-radius: 5px;
+    background-color: black;
+    color:red;
+    margin-left:10px;
+    }

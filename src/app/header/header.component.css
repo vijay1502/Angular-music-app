@@ -1,0 +1,14 @@
+header{
+width:100%;
+height:10%;
+background-color: black;
+color:white;
+display: inline-block;
+
+}
+header img{
+    margin-top: 6px;
+    margin-left: 5px;
+    width:100px;
+    height:60px;
+}
